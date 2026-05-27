@@ -1,0 +1,8 @@
+Ruta /:
+Al ingresar a esta ruta, el servidor responde con el mensaje "Servidor activo".
+
+Ruta /saludo:
+El servidor responde con el mensaje "Hola comunidad".
+
+Ruta /mensaje/juan:
+El servidor toma el nombre enviado en la URL y responde con "Hola juan".
